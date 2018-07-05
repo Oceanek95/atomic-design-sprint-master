@@ -1,0 +1,18 @@
+.banner {
+	display: flex;
+	height: 100vh;
+	background: linear-gradient(-225deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.5) 40%), url(../../images/students.jpg);
+	background-size: cover;
+	align-items: center;
+	justify-content: space-around;
+	background-size: cover;
+	text-align: center;
+}
+
+.banner-content {
+	text-align: center;
+	margin: 30px;
+}
+.card-user-infos {
+	padding: 10px;
+}
